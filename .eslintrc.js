@@ -17,9 +17,10 @@ module.exports = {
   // off, 	0, 	ルールをオフにする
   // warn, 	1, 	警告するが終了コードに影響しない
   // error, 2, 	警告し、終了コードを1にする
-  rules: {
-    "no-console": "error",  
-    camelcase: ["error", { properties: "never" }],
-    semi: ["error", "always"],
-  },
+  // rules: {
+  //   "no-console": "error",  
+  //   camelcase: ["error", { properties: "never" }],
+  //   semi: ["error", "always"],
+  // },
+  extends: ["airbnb-base"],
 };
