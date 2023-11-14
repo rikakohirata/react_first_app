@@ -1,11 +1,20 @@
-# Reactプロジェクト
-**目的：** <br />
-Reactの学習のため
+# メモアプリ
+
+**目的：Reactの学習のため** <br />
 <br />
-<br />
-**プロジェクトの起動：** <br />
-`npm start` を実行し、http://localhost:3000/ にアクセス
-<br />
-<br />
-**内容：** <br />
-- ESLintを導入
+登録・削除ができるメモアプリ
+
+[![Image from Gyazo](https://i.gyazo.com/6529d878af1c5dbe0bff1581d2e92dfa.gif)](https://gyazo.com/6529d878af1c5dbe0bff1581d2e92dfa)
+
+# 開発環境
+- React 18.2.0
+- ESLint 8.40.0
+
+# プロジェクトの起動
+
+```
+npm start
+```
+
+
+
